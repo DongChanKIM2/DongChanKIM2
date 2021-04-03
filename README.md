@@ -3,7 +3,7 @@
 
 👋 Hi My name is Chan, i am studying SW at ![Samsung](https://img.shields.io/badge/-Samsung-0071C5?style=flat-square&logo=samsung&logoColor=white)
 
-My major is Mechanical engineering :mortar_board:
+My major is **Mechanical engineering** :mortar_board:
 
 
 
