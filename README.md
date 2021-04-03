@@ -20,7 +20,7 @@ My major is **Mechanical engineering** :mortar_board:, and I have been studying 
 ![R](https://img.shields.io/badge/R-★★☆☆☆-276DC3?style=plastic&logo=Python&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-★★★☆☆-0076A8?style=plastic&logo=mathworks&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-★★☆☆☆-4479A1?style=plastic&logo=MySQL&logoColor=white)  
-[!SQLD Certificate](https://img.shields.io/badge/SQL-4479A1?style=plastic&logo=MySQL&logoColor=white)
+[!SQLD Certificate](https://img.shields.io/SQL-4479A1?style=plastic&logo=MySQL&logoColor=white)
 ![WEB_FRAMEWORK](https://img.shields.io/badge/DJANGO-★★★☆☆-092E20?style=plastic&logo=Django&logoColor=white)
 
 ![ANSYS](https://img.shields.io/badge/ANSYS-★★★☆☆-FFB71B?style=plastic&logo=Ansys&logoColor=blakc)
