@@ -17,7 +17,7 @@ My major is **Mechanical engineering** :mortar_board:, and I have been studying 
 :flags: Languages    
 
 ![PYTHON](https://img.shields.io/badge/PYTHON-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-0696D7?style=plastic&logo=Python&logoColor=white)
-![R](https://img.shields.io/badge/R-★★☆☆☆-276DC3?style=plastic&logo=Python&logoColor=white)
+![R](https://img.shields.io/badge/R-★★☆☆☆-276DC3?style=plastic&logo=R&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-★★★☆☆-0076A8?style=plastic&logo=mathworks&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-★★☆☆☆-4479A1?style=plastic&logo=MySQL&logoColor=white)  
 ![SQLD_Certificate](https://img.shields.io/badge/SQLD-4479A1?style=plastic&logo=MySQL&logoColor=white)
