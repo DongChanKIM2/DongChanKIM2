@@ -16,7 +16,7 @@ My major is **Mechanical engineering** :mortar_board:, and I have been studying 
 | **:book:Education** | 2014.03 ~ 2020.02 | Department of Mechanical engineering  | Handong Global University |
 
 
-:flags: Languages  
+:flags: Languages    
 ![PYTHON](https://img.shields.io/badge/PYTHON-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-0696D7?style=plastic&logo=Python&logoColor=white)
 ![DJANGO](https://img.shields.io/badge/DJANGO-★★★☆☆-092E20?style=plastic&logo=Django&logoColor=white)
 
