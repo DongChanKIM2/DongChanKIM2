@@ -6,13 +6,14 @@
 My major is **Mechanical engineering** :mortar_board:, and I have been studying and working on **S/W & Data & ML/DL.**
 
 :necktie: Career
+| **TYPE** | **DATE** | **Contents** | **Organization** |
+|:-:|:-:|:-:|:-:|
+| **External activites** | 2021.01 ~ | Samsung SW Student | SAMSUNG |
+| **:office:Employment** | 2020.08 ~ 2020.12 | Big Data Intern | NIA |
+| **External activites** | 2018.04 ~ 2019.06 | Africa Technology Development Cooperation | Handong Global University  & CRAIST 90% |
+| **:book:Education** | 2014.03 ~ 2020.02 | Department of Mechanical engineering  | Handong Global University |
 
 
-| ggg |   |   |   |   |
-|-----|---|---|---|---|
-|     |   |   |   |   |
-|     |   |   |   |   |
-|     |   |   |   |   |
 
 ##
 
