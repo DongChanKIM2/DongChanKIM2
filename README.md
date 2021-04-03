@@ -22,12 +22,11 @@ My major is **Mechanical engineering** :mortar_board:, and I have been studying 
 ![SQL](https://img.shields.io/badge/SQL-★★☆☆☆-4479A1?style=plastic&logo=MySQL&logoColor=white)  
 ![SQLD_Certificate](https://img.shields.io/badge/SQLD-4479A1?style=plastic&logo=MySQL&logoColor=white)
 ![WEB_FRAMEWORK](https://img.shields.io/badge/DJANGO-★★★☆☆-092E20?style=plastic&logo=Django&logoColor=white)
-
 ![ANSYS](https://img.shields.io/badge/ANSYS-★★★☆☆-FFB71B?style=plastic&logo=Ansys&logoColor=blakc)
 
 
 ### :mailbox_with_mail: Contacts
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:harimkang4422@gmail.com)](mailto:harimkang4422@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fromecha@gmail.com)](mailto:fromecha@gmail.com)
 
 
 
