@@ -29,7 +29,7 @@ My major is **Mechanical engineering** :mortar_board:, and I have been studying 
 - 20' BC카드 빅데이터 공모전 우수상
 - 19' 18' 교내 캡스톤 최우수상 우수상 
 
-### :mailbox_with_mail: # Contacts
+### Contacts :mailbox_with_mail:
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fromecha@gmail.com)](mailto:fromecha@gmail.com)
 
 
