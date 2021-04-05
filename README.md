@@ -5,7 +5,7 @@
 
 My major is **Mechanical engineering** :mortar_board:, and I have been studying and working on **S/W & Data & ML/DL.**
 
-:necktie: # Career
+### Career :necktie: 
 | **TYPE** | **DATE** | **Contents** | **Organization** |
 |:-:|:-:|:-:|:-:|
 | **External activites** | 2021.01 ~ | Samsung SW Student | SAMSUNG |
@@ -14,7 +14,7 @@ My major is **Mechanical engineering** :mortar_board:, and I have been studying 
 | **:book:Education** | 2014.03 ~ 2020.02 | Department of Mechanical engineering  | Handong Global University |
 
 
-:flags: # Languages    
+### Languages :flags: 
 
 ![PYTHON](https://img.shields.io/badge/PYTHON-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-0696D7?style=plastic&logo=Python&logoColor=white)
 ![R](https://img.shields.io/badge/R-★★☆☆☆-276DC3?style=plastic&logo=R&logoColor=white)
@@ -24,6 +24,10 @@ My major is **Mechanical engineering** :mortar_board:, and I have been studying 
 ![WEB_FRAMEWORK](https://img.shields.io/badge/DJANGO-★★★☆☆-092E20?style=plastic&logo=Django&logoColor=white)
 ![ANSYS](https://img.shields.io/badge/ANSYS-★★★☆☆-FFB71B?style=plastic&logo=Ansys&logoColor=blakc)
 
+### Awards 🏆
+- 21' NIA 농업 영상 데이터 해커톤 대회 최우수상
+- 20' BC카드 빅데이터 공모전 우수상
+- 19' 18' 교내 캡스톤 최우수상 우수상 
 
 ### :mailbox_with_mail: # Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fromecha@gmail.com)](mailto:fromecha@gmail.com)
