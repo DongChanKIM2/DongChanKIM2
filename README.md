@@ -25,9 +25,9 @@ My major is **Mechanical engineering** :mortar_board:, and I have been studying 
 ![ANSYS](https://img.shields.io/badge/ANSYS-★★★☆☆-FFB71B?style=plastic&logo=Ansys&logoColor=blakc)
 
 ### Awards 🏆
-- 21' NIA 농업 영상 데이터 해커톤 대회 최우수상
-- 20' BC카드 빅데이터 공모전 우수상
-- 19' 18' 교내 캡스톤 최우수상 우수상 
+- 21' NIA 농업 영상/이미지 데이터 해커톤 대회 - 최우수상
+- 20' BC카드 금융 빅데이터 공모전 - 우수상
+- 19' Matlab을 활용한 데이터 처리 - 교내 캡스톤 최우수상 우수상 
 
 ### Contacts :mailbox_with_mail:
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fromecha@gmail.com)](mailto:fromecha@gmail.com)
