@@ -26,7 +26,7 @@ My major is **Mechanical engineering** :mortar_board:, and I have been studying 
 | **TYPE** | **DATE** | **Organization** |
 |:-:|:-:|:-:|:-:|
 | **![SQLD_Certificate](https://img.shields.io/badge/SQLD-4479A1?style=plastic&logo=MySQL&logoColor=white)** | 2020.11.29 ~ | K-DATA |
-|  |  | |
+
 
 
 ### Awards 🏆
