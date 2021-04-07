@@ -14,15 +14,17 @@ My major is **Mechanical engineering** :mortar_board:, and I have been studying 
 | **:book:Education** | 2014.03 ~ 2020.02 | Department of Mechanical engineering  | Handong Global University |
 
 
-### Languages :flags: 
-
+### Languages :flags:   
 ![PYTHON](https://img.shields.io/badge/PYTHON-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-0696D7?style=plastic&logo=Python&logoColor=white)
 ![R](https://img.shields.io/badge/R-★★☆☆☆-276DC3?style=plastic&logo=R&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-★★★☆☆-0076A8?style=plastic&logo=mathworks&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-★★☆☆☆-4479A1?style=plastic&logo=MySQL&logoColor=white)  
-![SQLD_Certificate](https://img.shields.io/badge/SQLD-4479A1?style=plastic&logo=MySQL&logoColor=white)
 ![WEB_FRAMEWORK](https://img.shields.io/badge/DJANGO-★★★☆☆-092E20?style=plastic&logo=Django&logoColor=white)
 ![ANSYS](https://img.shields.io/badge/ANSYS-★★★☆☆-FFB71B?style=plastic&logo=Ansys&logoColor=blakc)
+
+### Certificate :pencil:
+![SQLD_Certificate](https://img.shields.io/badge/SQLD-4479A1?style=plastic&logo=MySQL&logoColor=white) - 2020.11.29
+https://www.dataq.or.kr/www/mypage/accept/result.do
 
 ### Awards 🏆
 - 21' NIA 농업 영상/이미지 데이터 해커톤 대회 - 최우수상
