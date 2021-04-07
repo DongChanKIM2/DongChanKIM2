@@ -23,10 +23,6 @@ My major is **Mechanical engineering** :mortar_board:, and I have been studying 
 ![ANSYS](https://img.shields.io/badge/ANSYS-★★★☆☆-FFB71B?style=plastic&logo=Ansys&logoColor=blakc)
 
 ### Certificate :pencil:
-| **TYPE** | **DATE** | **Contents** | **Organization** |
-|:-:|:-:|:-:|:-:|
-| **External activites** | 2021.01 ~ | Samsung SW Student | SAMSUNG |
-
 | **TYPE** | **ACQUISTION DATE** | **Organization** |
 |:-:|:-:|:-:|
 | **![SQLD_Certificate](https://img.shields.io/badge/SQLD-4479A1?style=plastic&logo=MySQL&logoColor=white)** | 2020.11.29 | K-DATA |
