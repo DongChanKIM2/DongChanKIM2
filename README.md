@@ -16,6 +16,7 @@ My major is **Mechanical engineering** :mortar_board:, and I have been studying 
 
 ### Languages :flags:   
 ![PYTHON](https://img.shields.io/badge/PYTHON-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-0696D7?style=plastic&logo=Python&logoColor=white)
+![JAVA](https://img.shields.io/badge/PYTHON-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-0696D7?style=plastic&logo=Java&logoColor=white)
 ![R](https://img.shields.io/badge/R-★★☆☆☆-276DC3?style=plastic&logo=R&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-★★★☆☆-0076A8?style=plastic&logo=mathworks&logoColor=white)
 ![WEB_FRAMEWORK](https://img.shields.io/badge/DJANGO-★★★☆☆-092E20?style=plastic&logo=Django&logoColor=white)
@@ -28,6 +29,7 @@ My major is **Mechanical engineering** :mortar_board:, and I have been studying 
 
 
 ### Awards 🏆
+- 21' SSAFY SNS 웹 개발 - 우수상
 - 21' NIA 농업 영상/이미지 데이터 해커톤 대회 - 최우수상
 - 20' BC카드 금융 빅데이터 공모전 - 우수상
 - 19' Matlab을 활용한 데이터 처리 - 교내 캡스톤 최우수상
