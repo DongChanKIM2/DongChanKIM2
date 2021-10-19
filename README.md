@@ -15,11 +15,10 @@ My major is **Mechanical engineering** :mortar_board:, and I have been studying 
 
 
 ### Languages :flags:   
-![PYTHON](https://img.shields.io/badge/PYTHON-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-0696D7?style=plastic&logo=Python&logoColor=white)
-![JAVA](https://img.shields.io/badge/JAVA-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-0696D7?style=plastic&logo=Java&logoColor=white)
+![PYTHON](https://img.shields.io/badge/PYTHON-★★★☆☆-0696D7?style=plastic&logo=Python&logoColor=white)
+![JAVA](https://img.shields.io/badge/JAVA-★★☆☆☆-0696D7?style=plastic&logo=Java&logoColor=white)
 ![R](https://img.shields.io/badge/R-★★☆☆☆-276DC3?style=plastic&logo=R&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-★★★☆☆-0076A8?style=plastic&logo=mathworks&logoColor=white)
-![WEB_FRAMEWORK](https://img.shields.io/badge/DJANGO-★★★☆☆-092E20?style=plastic&logo=Django&logoColor=white)
 
 ### Certificate :pencil:
 | **TYPE** | **ACQUISTION DATE** | **Organization** |
