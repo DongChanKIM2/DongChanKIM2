@@ -8,11 +8,12 @@ My major is **Mechanical engineering** :mortar_board:, and I have been studying 
 ### Career :necktie: 
 | **TYPE** | **DATE** | **Contents** | **Organization** |
 |:-:|:-:|:-:|:-:|
+| **:office:Employment** | 2021.11 ~         | BackEnd Developer | Kakao |
 | **:office:Employment** | 2021.08 ~ 2021.09 | NH CARD | NH |
 | **External activites** | 2021.01 ~ 2021.08 | Samsung SW Student | SAMSUNG |
 | **:office:Employment** | 2020.08 ~ 2020.12 | Big Data Intern | NIA |
-| **External activites** | 2018.04 ~ 2019.06 | Africa Technology Development Cooperation | OO University  & CRAIST 90% |
-| **:book:Education** | 2014.03 ~ 2020.02 | Department of Mechanical engineering  | OO University |
+| **External activites** | 2018.04 ~ 2019.06 | Africa Technology Development Cooperation | Handong University  & CRAIST 90% |
+| **:book:Education** | 2014.03 ~ 2020.02 | Department of Mechanical engineering  | Handong University |
 
 
 ### Languages :flags:   
